@@ -1,6 +1,6 @@
 # Data-Science-Nanodegree - Udacity
 
-
+![Data Science](https://github.com/saikiransangam/Data-Science-Nanodegree/blob/master/DSND%20Certificate.png)
 
 ## Project 1 - Data Science Blog
 ### Description:
